@@ -8,3 +8,6 @@ cascading style sheets.
 
 #### project setup/access instructions
 to access the webpage click here [:my portfolio](https://muiruri-gathairu.github.io/portfolio/)
+
+#### copyright and licensing
+you can view project license and permissions [here]()
